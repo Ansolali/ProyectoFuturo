@@ -23,5 +23,6 @@ public static String veredicto(String valor1, String valor2) {
      public static void main(String[] args) {
         System.out.println("Nombre alumno " + args[0] + " " + args[1]);
         System.out.println(veredicto(args[3],args[2]));
+        System.out.println("Andrea Soler Aliaga ");
     }
 }
